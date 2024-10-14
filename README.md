@@ -1,4 +1,4 @@
-## Hi there 👋
+## Computer Science PhD Candidate at University of Iowa
 
 <!--
 **hasanur-rahman/hasanur-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
