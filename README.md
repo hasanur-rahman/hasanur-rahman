@@ -1,4 +1,4 @@
-## CS PhD Candidate at UIowa | Research Intern at Argonne National Laboratory
+## ECE PhD Student at University of Florida
 
 
  My research interests are mainly in dependable system design, data reduction, parallel computing, and applied ML applications.  
